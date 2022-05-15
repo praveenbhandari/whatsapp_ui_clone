@@ -47,7 +47,9 @@ class _list_itemState extends State<list_item> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Row,
+      child: Row(children: [
+
+      ],),
     );
   }
 }
